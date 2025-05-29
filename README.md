@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerrradleighpompei&label=Profile%20views&color=0e75b6&style=flat" alt="developerrradleighpompei" /> </p>
 
-- 🔭 I’m currently working on **A programming language called rad-lang**
+- 🔭 I’m currently working on **Machine Learning**
 <p align="left">
 </p>
 
